@@ -1,7 +1,3 @@
-Certainly! Here's an explanation of the code provided for the README.md:
-
----
-
 ## Movie Recommendation System
 
 ### Overview
@@ -40,7 +36,3 @@ print(recommendations)
 ### Note
 - Ensure the movie titles provided as input are consistent with the titles in the dataset to receive accurate recommendations.
 - Experiment with different parameters and techniques to improve recommendation quality.
-
----
-
-Feel free to customize the README.md according to your project's requirements and additional information you want to provide.
